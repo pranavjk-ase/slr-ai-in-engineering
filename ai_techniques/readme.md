@@ -1,0 +1,1 @@
+We performed automatic keyword extraction to extract the AI techniques used in the gathered papers. To perform the automated AI analysis, we selected a candidate set of AI-related keywords. We obtained a list of 208 AI tags which are presented in the following sheet: *list_of_ai_techniques.xlsx*.
